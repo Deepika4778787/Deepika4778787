@@ -7,6 +7,7 @@ Currently working as Software Developer (Frontend) at Vensyx Data Solutions Pvt.
 
 📍 Andhra Pradesh, India | 📧 deepikapayyavula4778@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/deepika-payyavula-3bba70267)
+📄 **[Download My Resume](https://github.com/Deepika4778787/Deepika4778787/blob/main/Deepika_payyavula_Frontend_React.docx)**
 
 ### 🛠️ Tech Stack
 - Frontend: React.js, TypeScript, JavaScript, HTML5, CSS3
